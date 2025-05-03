@@ -1,5 +1,3 @@
-### Final File :
-
 # Fantastische MCP-Server [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
